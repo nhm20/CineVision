@@ -41,14 +41,12 @@ There are many technologies in this project. These are:
     <li>Resilience4j</li>
     <li>PostgreSql</li>
     <li>MongoDB</li>
-    <li>Redis</li>
     <li>Docker</li>
 </ul>
 <h5> Frontend Techologies </h5>
 <ul>
     <li>JavaScript</li>
     <li>React</li>
-    <li>Bootstrap</li>
     <li>Redux</li>
 </ul>
 
@@ -191,8 +189,3 @@ on <b> localhost:3000 </b>.
 
 https://user-images.githubusercontent.com/79381882/194945895-f7e2d2d2-4899-4ade-8c79-ecb647949ffd.mp4
 
-<h4>Main Page</h4>
-
-<img src="homa_page.jpg">
-
-[For more UI Images](https://github.com/VonHumbolt/CineVisionMicroserviceProject/tree/main/frontend)
